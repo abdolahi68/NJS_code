@@ -1,0 +1,5 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "Jamnet" "Jamnet" "2" "516x584+800+78:normal"
+inspector "Jamnet.host[0].nic" "NicJammer" "2" "565x342+958+298:iconic"
+inspector "Jamnet.host[5].nic" "NicJammer" "2" "565x342+581+155:normal"
+

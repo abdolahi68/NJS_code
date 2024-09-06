@@ -1,0 +1,64 @@
+----------------------------------------------------------------------
+
+
+Tcl error: modinsp.cc#756: ptr01E5F920 not found
+    while executing
+"error "$tag not found""
+    (procedure "get_submod_coords" line 4)
+    invoked from within
+"get_submod_coords $c $modptr"
+    (procedure "graphmodwin_draw_nexteventmarker" line 2)
+    invoked from within
+"graphmodwin_draw_nexteventmarker .ptr01E5F3A0-2.c ptr01E5F920 1"
+
+
+Tcl error: modinsp.cc#756: ptr01E5F920 not found
+    while executing
+"error "$tag not found""
+    (procedure "get_submod_coords" line 4)
+    invoked from within
+"get_submod_coords $c $modptr"
+    (procedure "graphmodwin_draw_nexteventmarker" line 2)
+    invoked from within
+"graphmodwin_draw_nexteventmarker .ptr01E5F3A0-2.c ptr01E5F920 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: modinsp.cc#756: ptr01E3F8A0 not found
+    while executing
+"error "$tag not found""
+    (procedure "get_submod_coords" line 4)
+    invoked from within
+"get_submod_coords $c $modptr"
+    (procedure "graphmodwin_draw_nexteventmarker" line 2)
+    invoked from within
+"graphmodwin_draw_nexteventmarker .ptr01E3F3A0-2.c ptr01E3F8A0 1"
+
+
+Tcl error: modinsp.cc#756: ptr01E3F8A0 not found
+    while executing
+"error "$tag not found""
+    (procedure "get_submod_coords" line 4)
+    invoked from within
+"get_submod_coords $c $modptr"
+    (procedure "graphmodwin_draw_nexteventmarker" line 2)
+    invoked from within
+"graphmodwin_draw_nexteventmarker .ptr01E3F3A0-2.c ptr01E3F8A0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: modinsp.cc#756: ptr05BD9A70 not found
+    while executing
+"error "$tag not found""
+    (procedure "get_submod_coords" line 4)
+    invoked from within
+"get_submod_coords $c $modptr"
+    (procedure "graphmodwin_draw_nexteventmarker" line 2)
+    invoked from within
+"graphmodwin_draw_nexteventmarker .ptr04571A08-2.c ptr05BD9A70 1"
+
+

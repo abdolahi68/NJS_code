@@ -1,0 +1,173 @@
+version 2
+run General-0-20220730-20:03:48-5560
+attr configname General
+attr datetime 20220730-20:03:48
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvars2 $repetition=0
+attr measurement ""
+attr network jamloc.Jamnet
+attr processid 5560
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+scalar Jamnet.host[0].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.host[0].nic.phy 	nbFramesWithoutInterference 	16
+scalar Jamnet.host[0].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.host[0].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.host[0].nic.phy 	nbFramesWithInterferenceDropped 	2
+scalar Jamnet.host[0].nic.phy 	nbFramesWithoutInterferenceDropped 	53
+scalar Jamnet.MeshHost[0].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[0].nic.phy 	nbFramesWithoutInterference 	4
+scalar Jamnet.MeshHost[0].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[0].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[0].nic.phy 	nbFramesWithInterferenceDropped 	9
+scalar Jamnet.MeshHost[0].nic.phy 	nbFramesWithoutInterferenceDropped 	209
+scalar Jamnet.MeshHost[1].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[1].nic.phy 	nbFramesWithoutInterference 	8
+scalar Jamnet.MeshHost[1].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[1].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[1].nic.phy 	nbFramesWithInterferenceDropped 	16
+scalar Jamnet.MeshHost[1].nic.phy 	nbFramesWithoutInterferenceDropped 	207
+scalar Jamnet.MeshHost[2].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[2].nic.phy 	nbFramesWithoutInterference 	9
+scalar Jamnet.MeshHost[2].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[2].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[2].nic.phy 	nbFramesWithInterferenceDropped 	18
+scalar Jamnet.MeshHost[2].nic.phy 	nbFramesWithoutInterferenceDropped 	203
+scalar Jamnet.MeshHost[3].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[3].nic.phy 	nbFramesWithoutInterference 	5
+scalar Jamnet.MeshHost[3].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[3].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[3].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[3].nic.phy 	nbFramesWithoutInterferenceDropped 	12
+scalar Jamnet.MeshHost[4].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[4].nic.phy 	nbFramesWithoutInterference 	3
+scalar Jamnet.MeshHost[4].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[4].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[4].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[4].nic.phy 	nbFramesWithoutInterferenceDropped 	15
+scalar Jamnet.MeshHost[5].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[5].nic.phy 	nbFramesWithoutInterference 	4
+scalar Jamnet.MeshHost[5].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[5].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[5].nic.phy 	nbFramesWithInterferenceDropped 	13
+scalar Jamnet.MeshHost[5].nic.phy 	nbFramesWithoutInterferenceDropped 	207
+scalar Jamnet.MeshHost[6].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[6].nic.phy 	nbFramesWithoutInterference 	10
+scalar Jamnet.MeshHost[6].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[6].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[6].nic.phy 	nbFramesWithInterferenceDropped 	20
+scalar Jamnet.MeshHost[6].nic.phy 	nbFramesWithoutInterferenceDropped 	200
+scalar Jamnet.MeshHost[7].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[7].nic.phy 	nbFramesWithoutInterference 	14
+scalar Jamnet.MeshHost[7].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[7].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[7].nic.phy 	nbFramesWithInterferenceDropped 	20
+scalar Jamnet.MeshHost[7].nic.phy 	nbFramesWithoutInterferenceDropped 	204
+scalar Jamnet.MeshHost[8].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[8].nic.phy 	nbFramesWithoutInterference 	7
+scalar Jamnet.MeshHost[8].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[8].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[8].nic.phy 	nbFramesWithInterferenceDropped 	13
+scalar Jamnet.MeshHost[8].nic.phy 	nbFramesWithoutInterferenceDropped 	208
+scalar Jamnet.MeshHost[9].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[9].nic.phy 	nbFramesWithoutInterference 	2
+scalar Jamnet.MeshHost[9].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[9].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[9].nic.phy 	nbFramesWithInterferenceDropped 	2
+scalar Jamnet.MeshHost[9].nic.phy 	nbFramesWithoutInterferenceDropped 	20
+scalar Jamnet.MeshHost[10].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[10].nic.phy 	nbFramesWithoutInterference 	6
+scalar Jamnet.MeshHost[10].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[10].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[10].nic.phy 	nbFramesWithInterferenceDropped 	16
+scalar Jamnet.MeshHost[10].nic.phy 	nbFramesWithoutInterferenceDropped 	202
+scalar Jamnet.MeshHost[11].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[11].nic.phy 	nbFramesWithoutInterference 	15
+scalar Jamnet.MeshHost[11].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[11].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[11].nic.phy 	nbFramesWithInterferenceDropped 	20
+scalar Jamnet.MeshHost[11].nic.phy 	nbFramesWithoutInterferenceDropped 	196
+scalar Jamnet.MeshHost[12].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[12].nic.phy 	nbFramesWithoutInterference 	12
+scalar Jamnet.MeshHost[12].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[12].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[12].nic.phy 	nbFramesWithInterferenceDropped 	18
+scalar Jamnet.MeshHost[12].nic.phy 	nbFramesWithoutInterferenceDropped 	206
+scalar Jamnet.MeshHost[13].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[13].nic.phy 	nbFramesWithoutInterference 	7
+scalar Jamnet.MeshHost[13].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[13].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[13].nic.phy 	nbFramesWithInterferenceDropped 	23
+scalar Jamnet.MeshHost[13].nic.phy 	nbFramesWithoutInterferenceDropped 	210
+scalar Jamnet.MeshHost[14].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[14].nic.phy 	nbFramesWithoutInterference 	11
+scalar Jamnet.MeshHost[14].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[14].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[14].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[14].nic.phy 	nbFramesWithoutInterferenceDropped 	18
+scalar Jamnet.MeshHost[15].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[15].nic.phy 	nbFramesWithoutInterference 	6
+scalar Jamnet.MeshHost[15].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[15].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[15].nic.phy 	nbFramesWithInterferenceDropped 	18
+scalar Jamnet.MeshHost[15].nic.phy 	nbFramesWithoutInterferenceDropped 	206
+scalar Jamnet.MeshHost[16].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[16].nic.phy 	nbFramesWithoutInterference 	9
+scalar Jamnet.MeshHost[16].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[16].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[16].nic.phy 	nbFramesWithInterferenceDropped 	21
+scalar Jamnet.MeshHost[16].nic.phy 	nbFramesWithoutInterferenceDropped 	209
+scalar Jamnet.MeshHost[17].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[17].nic.phy 	nbFramesWithoutInterference 	6
+scalar Jamnet.MeshHost[17].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[17].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[17].nic.phy 	nbFramesWithInterferenceDropped 	26
+scalar Jamnet.MeshHost[17].nic.phy 	nbFramesWithoutInterferenceDropped 	206
+scalar Jamnet.MeshHost[18].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[18].nic.phy 	nbFramesWithoutInterference 	19
+scalar Jamnet.MeshHost[18].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[18].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[18].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[18].nic.phy 	nbFramesWithoutInterferenceDropped 	26
+scalar Jamnet.MeshHost[19].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[19].nic.phy 	nbFramesWithoutInterference 	11
+scalar Jamnet.MeshHost[19].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[19].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[19].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[19].nic.phy 	nbFramesWithoutInterferenceDropped 	32
+scalar Jamnet.MeshHost[20].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[20].nic.phy 	nbFramesWithoutInterference 	0
+scalar Jamnet.MeshHost[20].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[20].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[20].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[20].nic.phy 	nbFramesWithoutInterferenceDropped 	12
+scalar Jamnet.MeshHost[21].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[21].nic.phy 	nbFramesWithoutInterference 	8
+scalar Jamnet.MeshHost[21].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[21].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[21].nic.phy 	nbFramesWithInterferenceDropped 	1
+scalar Jamnet.MeshHost[21].nic.phy 	nbFramesWithoutInterferenceDropped 	31
+scalar Jamnet.MeshHost[22].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[22].nic.phy 	nbFramesWithoutInterference 	10
+scalar Jamnet.MeshHost[22].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[22].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[22].nic.phy 	nbFramesWithInterferenceDropped 	25
+scalar Jamnet.MeshHost[22].nic.phy 	nbFramesWithoutInterferenceDropped 	202
+scalar Jamnet.MeshHost[23].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[23].nic.phy 	nbFramesWithoutInterference 	14
+scalar Jamnet.MeshHost[23].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[23].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[23].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[23].nic.phy 	nbFramesWithoutInterferenceDropped 	23
+scalar Jamnet.MeshHost[24].nic.phy 	nbFramesWithInterference 	0
+scalar Jamnet.MeshHost[24].nic.phy 	nbFramesWithoutInterference 	6
+scalar Jamnet.MeshHost[24].nic.phy 	nbFramesWithInterferencePartial 	0
+scalar Jamnet.MeshHost[24].nic.phy 	nbFramesWithoutInterferencePartial 	0
+scalar Jamnet.MeshHost[24].nic.phy 	nbFramesWithInterferenceDropped 	0
+scalar Jamnet.MeshHost[24].nic.phy 	nbFramesWithoutInterferenceDropped 	21
