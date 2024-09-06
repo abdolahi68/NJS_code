@@ -18,5 +18,8 @@ How to Run:
 Also, for changing the type of jammer (reactive/proactive) change the JamLoc/omnetpp.ini
 
 
+The presence of a jammer in an IoT network severely degrades all communication efforts between adjacent wireless devices. The situation is getting worse due to retransmission attempts made by affected devices. Therefore, jammers must be detected or localized quickly to activate a series of corrective countermeasures so as to ensure the robust operation of the IoT network. This paper proposes a novel metric called the number of jammed slots (NJS). It can detect and localize both reactive and proactive jammers that follow arbitrary jamming attack patterns. NJS is applicable to all communication paradigms such as unicast, broadcast, and multicast. In NJS, the wireless medium status is monitored by IoT devices and summarized reports are sent to a central node. Then, the central node determines the jamming duration, the affected nodes, and the approximate location of the jammer(s).
+
+
 
 
