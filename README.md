@@ -11,8 +11,9 @@ How to Run:
 
 - edit the following paths related to positions of wireless nodes (I have attached the Positions.txt file ):
 
-\mixim-2.3\src\base\modules\TestApplLayer.cc
-\mixim-2.3\src\inet_stub\mobility\models\MobilityBase.cc
+ ---  \mixim-2.3\src\base\modules\TestApplLayer.cc
+ 
+---  \mixim-2.3\src\inet_stub\mobility\models\MobilityBase.cc
 
 Also, for changing the type of jammer (reactive/proactive) change the JamLoc/omnetpp.ini
 
