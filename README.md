@@ -10,6 +10,7 @@ How to Run:
 - MIXIM framework is compatible with omnet++ 4.3.
 
 - edit the following paths related to positions of wireless nodes (I have attached the Positions.txt file ):
+
 \mixim-2.3\src\base\modules\TestApplLayer.cc
 \mixim-2.3\src\inet_stub\mobility\models\MobilityBase.cc
 
